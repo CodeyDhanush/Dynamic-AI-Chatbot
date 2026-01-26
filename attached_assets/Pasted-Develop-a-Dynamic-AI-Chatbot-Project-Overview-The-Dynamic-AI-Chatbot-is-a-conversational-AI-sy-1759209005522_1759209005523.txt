@@ -48,4 +48,5 @@ Ensuring AI bias-free and ethical responses Implement fair AI training & bias de
 Future Enhancements 
  Voice-enabled chatbot with speech-to-text capabilities. 
  Multilingual support for broader accessibility. 
+
  AI-based predictive suggestions for better user interaction. 
